@@ -1,0 +1,56 @@
+
+.button{
+    width:200px  ;
+    height:auto ;
+    background-color:white;
+    color:#FE9C37;
+    border: 2px solid gray;
+    border-radius: 10px !important;
+
+
+
+}
+
+.button:hover{
+ 
+    background-color:#0084ff;
+    color:white;
+    box-shadow: 0 2px 0px 2px rgb(195, 195, 195) ;
+
+}
+
+.bgImg{
+    background-image:url('');
+    background-color: #cccccc;
+
+  z-index: 1;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+   
+}
+
+.team{
+  
+  text-align: center;
+  background-color: white;
+  color: #FE9C37;
+  width: 300px;
+  height:auto;
+  margin: auto;
+  border: 2px solid gray;
+  border-radius: 5px;
+  }
+  .team:hover{
+      background-color: blue;
+      color:white
+  }
+
+.card{
+  box-shadow: 0 0 2px 2px rgb(195, 195, 195) ;
+}
+
+.card:hover{
+  box-shadow: 0 0 5px 5px rgb(195, 195, 195) ;
+}

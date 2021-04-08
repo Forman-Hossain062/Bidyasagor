@@ -1,0 +1,26 @@
+.HscbgImg{
+    background-image:url('./bgImg.png');
+    background-color: #cccccc;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+   
+}
+
+.team{
+  
+text-align: center;
+background-color: #132042;
+color:#FE9C37;
+width:400px;
+height:auto;
+margin: auto;
+border: 1.5px solid #FE9C37;
+border-radius: 5px;
+}
+.team:hover{
+    background-color: #FE9C37;
+    color:white
+}

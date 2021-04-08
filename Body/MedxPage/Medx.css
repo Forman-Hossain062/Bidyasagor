@@ -1,0 +1,55 @@
+.MedxbgImg{
+    background-image:url('../MedxPage/bgImg.png');
+   
+    background-color: #cccccc;
+ 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+   
+}
+.demo-wrap {
+    position: relative;
+  }
+  
+  .demo-wrap:before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.6;
+    background-image:url('');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    background-size: cover;
+  }
+  
+  .demo-content {
+    position: relative;
+  }
+
+
+
+
+
+
+
+.team{
+  
+    text-align: center;
+    background-color: #132042;
+    color:#FE9C37;
+    width:400px;
+    height:auto;
+    margin: auto;
+    border: 1.5px solid #FE9C37;
+    border-radius: 5px;
+    }
+    .team:hover{
+        background-color: #FE9C37;
+        color:white
+    }
